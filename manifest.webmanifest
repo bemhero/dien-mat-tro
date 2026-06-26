@@ -1,0 +1,20 @@
+{
+  "id": "dien-mat-troi",
+  "name": "Điện Mặt Trời ABC — Tư vấn & Báo giá",
+  "short_name": "Điện Mặt Trời",
+  "description": "Tính chi phí, sản lượng và báo giá hệ thống điện mặt trời cho hộ gia đình và hộ kinh doanh.",
+  "lang": "vi",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f172a",
+  "theme_color": "#f59e0b",
+  "categories": ["utilities", "business"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
